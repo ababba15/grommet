@@ -1,20 +1,19 @@
 {
-  "name": "grommet",
-  "version": "1.2.1",
+  "name": "grommet-qrobin",
+  "version": "1.2.2",
   "main": "src/js/index.js",
-  "description": "The most advanced UX framework for enterprise applications.",
+  "description": "The most advanced UX framework for enterprise applications [qrobin style modification].",
   "authors": [
     "Alan Souza",
     "Bryan Jacquot",
     "Chris Carlozzi",
     "Eric Soderberg"
   ],
-  "homepage": "http://grommet.io",
-  "bugs": "https://github.com/grommet/grommet/issues",
+  "bugs": "https://github.com/ababba15/grommet/issues",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grommet/grommet.git"
+    "url": "https://github.com/ababba15/grommet.git"
   },
   "engine-strict": true,
   "engines": {
